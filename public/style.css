@@ -39,7 +39,7 @@
   }
   
   body {
-    font-family: "Poppins", sans-serif;
+    font-family: Calibri, sans-serif;
   }
   
   /* header */
@@ -68,7 +68,7 @@
   
   #logo {
     flex: 2 1 40rem;
-    font-family: "Pacifico", cursive;
+    font-family: Calibri, sans-serif;
     font-weight: normal;
   }
   

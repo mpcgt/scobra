@@ -391,3 +391,9 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+/* centrer */
+.center-block {
+  display: grid;
+  justify-content: center;
+}

@@ -1,5 +1,6 @@
-https://scobra.gitlab.io/scobra/
-
+<img src="https://gitlab.com/scobra/scobra/-/raw/master/public/medias/Scobra.png?ref_type=heads">
+<br>
+<br>
 <div style="margin: 15px;">
   <div align="center">
       <h1>Bienvenue chez Scobra 🐍</h1>
